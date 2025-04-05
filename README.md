@@ -1,1 +1,1 @@
-# kotlin_self-learning
+Kotlinの自己学習用リポジトリ
